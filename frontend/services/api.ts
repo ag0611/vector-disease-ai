@@ -1,0 +1,10 @@
+﻿import axios from "axios";
+const API = axios.create({ baseURL: process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000" });
+export const getDashboard = () => API.get("/api/dashboard").then(r => r.data);
+export const getMap = (disease = "Overall") => API.get(`/api/map?disease=${disease}`).then(r => r.data);
+export const getDiseases = () => API.get("/api/diseases").then(r => r.data);
+export const getAnalytics = () => API.get("/api/analytics").then(r => r.data);
+export const getHotspots = (disease = "Overall") => API.get(`/api/hotspots?disease=${disease}`).then(r => r.data);
+export const getAlerts = () => API.get("/api/alerts").then(r => r.data);
+export const predict = (data: object) => API.post("/api/predict", data).then(r => r.data);
+export const chat = (data: object) => API.post("/api/chat", data).then(r => r.data);
