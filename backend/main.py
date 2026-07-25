@@ -6,7 +6,7 @@ app = FastAPI(title="VBD Intel API", version="1.0.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://localhost:3000" , "https://vector-disease-ai.vercel.app" , ],
+    allow_origins=["https://localhost:3000" , "https://vector-disease-ai.vercel.app" , ], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
