@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+node_modules/
+.next/
+.env.local
+*.pkl
+*.joblib
+ml/datasets/
