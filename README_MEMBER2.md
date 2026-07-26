@@ -1,14 +1,14 @@
-Member 2 – Research & Data Analysis
+# Member 2 – Research & Data Analysis
 
- Overview
+## Overview
 
 This document outlines the responsibilities and contributions of **Member 2**, who was responsible for conducting research, identifying reliable data sources, analyzing project requirements, and supporting the overall planning of the Vector Disease AI platform. The objective of this role was to establish a strong research foundation by gathering authentic information and validating datasets used throughout the project.
 
 ---
 
- -> Responsibilities
+# Responsibilities
 
- 1. Problem Statement Research
+## 1. Problem Statement Research
 
 - Studied vector-borne disease challenges.
 - Identified real-world healthcare problems.
@@ -17,7 +17,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
- 2. Literature Review
+## 2. Literature Review
 
 - Reviewed research papers.
 - Studied AI-based disease prediction approaches.
@@ -26,7 +26,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
-3. Government Dataset Collection
+## 3. Government Dataset Collection
 
 - Identified public datasets.
 - Collected weather and disease-related data sources.
@@ -34,7 +34,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
-4. Data Source Validation
+## 4. Data Source Validation
 
 - Verified authenticity of datasets.
 - Checked dataset consistency.
@@ -42,7 +42,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
-5. Feature Analysis
+## 5. Feature Analysis
 
 - Identified important prediction features.
 - Studied weather and environmental parameters.
@@ -50,7 +50,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
-6. Requirement Analysis
+## 6. Requirement Analysis
 
 - Analyzed project requirements.
 - Identified user needs.
@@ -58,7 +58,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
- Deliverables
+# Deliverables
 
 - Research Documentation
 - Literature Review
@@ -68,7 +68,7 @@ This document outlines the responsibilities and contributions of **Member 2**, w
 
 ---
 
-Technologies & Resources
+# Technologies & Resources
 
 - Google Scholar
 - WHO Reports
@@ -80,6 +80,6 @@ Technologies & Resources
 
 ---
 
-Outcome
+# Outcome
 
 Member 2 established the research foundation of the project by collecting trusted resources, validating datasets, and documenting requirements that supported the overall development process.
