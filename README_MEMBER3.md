@@ -4,7 +4,7 @@
 
 This document outlines the responsibilities and contributions of **Member 3**, who was responsible for designing the user interface and user experience of the Vector Disease AI platform. The objective of this role was to create an intuitive, visually consistent, and user-friendly interface that improves usability and simplifies interaction with the application.
 
----
+--- 
 
 # Responsibilities
  
