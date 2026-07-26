@@ -7,7 +7,7 @@ This document outlines the responsibilities and contributions of **Member 3**, w
 ---
 
 # Responsibilities
-
+ 
 ## 1. User Flow Design
 
 - Planned user journey.
